@@ -1,0 +1,10 @@
+{
+  "APP_API_BASE_URL": "https://api.example.com/api/v1/",
+  "APP_BASE_IMAGE_URL": "https://example.com/sliders/",
+  "APP_API_KEY": "replace-me",
+  "APP_BASE_ONBOARDING_IMAGE_URL": "https://example.com/onboarding/",
+  "APP_BASE_BANNER_IMAGE_URL": "https://example.com/banner/",
+  "APP_BASE_PRODUCT_IMAGE_URL": "https://example.com/",
+  "APP_GOOGLE_CLIENT_ID": "replace-me",
+  "APP_GOOGLE_API_KEY": "replace-me"
+}
