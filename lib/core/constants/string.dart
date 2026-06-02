@@ -46,6 +46,4 @@ class StringConstants {
 
   static const String appDeletionAccountUrl =
       'https://example.com/account-deletion';
-
-  static const String becomeProvidor = partnerAppPlayStoreUrl;
 }
